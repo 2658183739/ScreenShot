@@ -4,4 +4,6 @@ infolabel是遮罩
 pinchartwindow是钉图功能
 screenshot，没啥用，只是用来打开个窗口点击个按钮的
 screenshotwidget，这个类是主要的截屏类，初始化之后就开始到了截屏的时候
-tool_bar是截图之后出现的工具栏，主要功能都在这个，功能的实现卸载了screenshotwidget里
+tool_bar是截图之后出现的工具栏，主要功能都在这个，功能的实现在了screenshotwidget里
+基本在qq截图中的常用功能都有
+qt 5.15.2 交叉编译为MSVC 2019 64bit
